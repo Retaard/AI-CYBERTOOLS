@@ -3,4 +3,4 @@ THIS IS FOR ARCHIVE PURPOSES THAT WERE MADE IN AI. THESE TOOLS ARE NOW DETECTED 
 
 Remember: THIS IS FOR EDUCATIONAL PURPOSES ONLY !! NOT RESPONSIBLE FOR ABUSE !! I DO NOT CONDONE ILLEGAL ACTIVITIES
 
-Quick note: I did not test them, so maybe they are broken or not. I'm not the one making the prompt.
+Quick note: Some are not tested so maybe they are broken or not. I'm not the one making the prompt.
