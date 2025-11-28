@@ -1,1 +1,1 @@
-darkgrok= tested(broken) the fucking skids prompt nothing
+darkgrok= cannot build(they didn't give instructions building it maybe broken)
