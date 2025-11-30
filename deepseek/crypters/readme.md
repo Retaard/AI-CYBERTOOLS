@@ -1,2 +1,2 @@
-deepcrypt.cpp = tested not with exe
+deepcrypt.cpp = tested .bin
 advanced crypter.py = not tested
